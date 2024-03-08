@@ -1,0 +1,2 @@
+2024-01-07 16:56:43,840 - INFO - Called add with args (1, 2) and kwargs {}
+2024-01-07 16:56:43,840 - INFO - add returned 3

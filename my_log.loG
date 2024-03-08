@@ -1,0 +1,5 @@
+2024-01-07 17:12:38,673  - my_logger - INFO - This is an informational message
+2024-01-07 17:12:38,674  - my_logger - WARNING - This is warning message
+2024-01-07 17:12:38,674  - my_logger - ERROR - This is an error message
+2024-01-07 17:12:38,674  - my_logger - INFO - Called add with args (1, 2) and kwargs {}
+2024-01-07 17:12:38,674  - my_logger - INFO - add returned 3

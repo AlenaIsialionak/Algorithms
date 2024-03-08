@@ -1,0 +1,11 @@
+2024-01-07 17:13:59,207  - my_logger - INFO - This is an informational message
+2024-01-07 17:13:59,207  - my_logger - WARNING - This is warning message
+2024-01-07 17:13:59,208  - my_logger - ERROR - This is an error message
+2024-01-07 17:13:59,208  - my_logger - INFO - Called rob_1 with args (<__main__.Solution object at 0x000002246AAD9110>, [1, 2, 3, 1]) and kwargs {}
+2024-01-07 17:13:59,208  - my_logger - INFO - rob_1 returned result
+2024-01-07 17:13:59,208  - my_logger - INFO - Called rob_2 with args (<__main__.Solution object at 0x000002246AAD9110>, [1, 2, 3, 1]) and kwargs {}
+2024-01-07 17:13:59,208  - my_logger - INFO - Called rob_1 with args (<__main__.Solution object at 0x000002246AAD9110>, [2, 3, 1]) and kwargs {}
+2024-01-07 17:13:59,208  - my_logger - INFO - rob_1 returned result
+2024-01-07 17:13:59,208  - my_logger - INFO - Called rob_1 with args (<__main__.Solution object at 0x000002246AAD9110>, [1, 2, 3]) and kwargs {}
+2024-01-07 17:13:59,208  - my_logger - INFO - rob_1 returned result
+2024-01-07 17:13:59,209  - my_logger - INFO - rob_2 returned result
